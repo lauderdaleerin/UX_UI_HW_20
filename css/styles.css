@@ -119,3 +119,8 @@ p {
 .underline {
     text-decoration: underline;
 }
+
+.maxh {
+    max-height:300px;
+}
+
