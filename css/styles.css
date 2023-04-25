@@ -4,6 +4,7 @@
     --ltorange: #FEEBCD;
 }
 
+
 body {
     background-color: var(--ltorange);
 }
@@ -120,7 +121,5 @@ p {
     text-decoration: underline;
 }
 
-.maxh {
-    max-height:300px;
-}
+
 
